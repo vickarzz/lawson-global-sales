@@ -2,7 +2,7 @@
 
 End-to-end sales analytics solution for **Lawson**. The project consolidates transactional sales data through an ETL pipeline built with **SSIS, Python, and SQL**, and delivers an interactive **Power BI** dashboard that tracks profitability, revenue, and cost drivers across time, product categories, and regions.
 
-   ![Lawson Sales Summary Dashboard](Lawson%20Global%20Sales.png)
+   ![Lawson Sales Summary Dashboard](images/Lawson%20Global%20Sales.png)
 
 ---
 
