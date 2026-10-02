@@ -6,6 +6,15 @@ End-to-end sales analytics solution for **Lawson**. The project consolidates tra
 
 ---
 
+## 👤 My Role
+
+- Gathered business requirements and defined sales and profitability KPIs
+- Designed and built ETL workflows using **SSIS**
+- Developed **Python** scripts for data cleansing and validation
+- Built the data model and KPI logic in **SQL**
+- Designed and developed the interactive **Power BI** dashboard
+---
+
 ## 📌 Project Highlights
 
 - **Single-page executive dashboard** summarizing sales performance at a glance
@@ -113,15 +122,6 @@ Clustered bar chart comparing monthly profit across the top-performing areas.
 - **Regional planning:** compares area performance to guide sales and expansion decisions
 - **Self-service analysis:** slicers let users answer their own questions without new reports
 
----
-
-## 👤 My Role
-
-- Gathered business requirements and defined sales and profitability KPIs
-- Designed and built ETL workflows using **SSIS**
-- Developed **Python** scripts for data cleansing and validation
-- Built the data model and KPI logic in **SQL**
-- Designed and developed the interactive **Power BI** dashboard
 
 ---
 
